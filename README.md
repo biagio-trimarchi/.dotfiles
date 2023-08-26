@@ -22,5 +22,7 @@ chmod +x ubuntu_install.sh
 ./ubuntu_install.sh
 ```
 
+Feel free to copy any interesting configurations or the interity of the folder! :)
+
 **ACHTUNG** Tested only on Ubuntu 22.04 LTS
 
