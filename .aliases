@@ -1,0 +1,7 @@
+#! /bin/bash
+
+# Docker aliases
+alias dock_crm="docker container remove"
+alias dock_cst="docker container start"
+alias dock_csp="docker container stop"
+alias dock_irm="docker image remove"
